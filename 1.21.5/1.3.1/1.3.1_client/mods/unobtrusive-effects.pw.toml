@@ -1,0 +1,13 @@
+name = "Unobtrusive Effects"
+filename = "unobtrusive-effects-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3wYGggWF/versions/4J6pDRRj/unobtrusive-effects-1.1.0.jar"
+hash-format = "sha512"
+hash = "b3636fc74a202185cca2d39d8fb633c3ffa56d67f232f15daf3f26bcd1a27222d1e4028975e38063a410d24695de5d023314f26778fe6152f1fcab51fcf5e39d"
+
+[update]
+[update.modrinth]
+mod-id = "3wYGggWF"
+version = "4J6pDRRj"

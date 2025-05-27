@@ -1,0 +1,7 @@
+name = "yeastdonkey-resource-pack"
+filename = "Yeastdonkey_1.21.5-0.zip"
+
+[download]
+url = "https://github.com/Yeastdonkey/resource-pack/releases/download/1.21.5-0/Yeastdonkey_1.21.5-0.zip"
+hash-format = "sha256"
+hash = "58b5a0dd84302cea847ca4a3e562a193397dc638744c52dc2707cb28aa724d62"

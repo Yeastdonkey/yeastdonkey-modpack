@@ -1,0 +1,1 @@
+https://github.com/gnembon/fabric-carpet/releases/download/1.4.169/fabric-carpet-1.21.5-1.4.169+v250325.jar

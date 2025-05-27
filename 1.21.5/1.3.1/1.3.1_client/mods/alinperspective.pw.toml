@@ -1,0 +1,13 @@
+name = "AlinPerspective"
+filename = "AlinPerspective-1.0.0-alpha.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ljp9E4A/versions/Z7dnlEro/AlinPerspective-1.0.0-alpha.4.jar"
+hash-format = "sha512"
+hash = "bd474c2e1088ee25f990464d58bc9e6e7bc1a3fd4ba2f27f068abed386edf7961b41bd1f25898296c43e473ba3fdce088ae3dd046e35379705ffe44afdcc29e9"
+
+[update]
+[update.modrinth]
+mod-id = "7ljp9E4A"
+version = "Z7dnlEro"

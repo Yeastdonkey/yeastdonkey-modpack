@@ -1,0 +1,7 @@
+name = "fabric-carpet"
+filename = "fabric-carpet-1.21.5-1.4.169+v250325.jar"
+
+[download]
+url = "https://github.com/gnembon/fabric-carpet/releases/download/1.4.169/fabric-carpet-1.21.5-1.4.169+v250325.jar"
+hash-format = "sha256"
+hash = "45062c280912be53e35a287444247280a7f12e49f5eb9b9a08f94d3cfc7c8281"

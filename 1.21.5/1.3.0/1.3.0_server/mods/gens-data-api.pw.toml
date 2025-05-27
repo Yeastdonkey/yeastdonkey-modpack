@@ -1,0 +1,13 @@
+name = "Data API"
+filename = "gens-data-api-1.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZS3lIxKu/versions/nmVPMUyD/gens-data-api-1.8.3.jar"
+hash-format = "sha512"
+hash = "21450abe3eb708fd69e76d780a9e1b672da86c0856311b89d1ca0e7fdda114babc94a320d530820b93b02beac5a4ae075310e7b05d54cbfc20475d4aa881f76c"
+
+[update]
+[update.modrinth]
+mod-id = "ZS3lIxKu"
+version = "nmVPMUyD"

@@ -1,0 +1,236 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
+metafile = true
+
+[[files]]
+file = "mods/better-safe-bed.pw.toml"
+hash = "800e32cf270430ef1f4fe12ef809f52e9e39a5e2e170cf53b4bfee6ff790c5fc"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
+metafile = true
+
+[[files]]
+file = "mods/bettertab.pw.toml"
+hash = "fe47d8d5d541478216652c7474e31c040b9bc7baf80381925f04436fd3d244c0"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
+metafile = true
+
+[[files]]
+file = "mods/cardinalboats.pw.toml"
+hash = "ac28d255c381e28eb99cf4bd0ece7a122e112f8cf98d234bd0271caaa6df1d59"
+metafile = true
+
+[[files]]
+file = "mods/carpet-ams-addition.pw.toml"
+hash = "e1e43c8458e98dcfdf7ba5eee8932bac644bd5a97fb45534431b18b5a0f8b863"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "4198e16ed476bf9005a6555ecec905fbd27abdd61cac6c5c7f1596cc5ee76dcc"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "d6b2d8aad733cfdbe782baf81413e5fc4eba322cbab7b333b4c1c16a23bdd6e9"
+metafile = true
+
+[[files]]
+file = "mods/carpet-org-addition.pw.toml"
+hash = "b877e5da3c12a243029030febc44f5f68c37b136379b89b0272747cca819a117"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "06f0e71e7217250922a6579f089490a4418f76ac0ef1b20593e2fdbaa7c8c139"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "595d62d939f7c9fc435e0c50e85aae8e239fa4f4bc097c4f525b1a569d1de9d3"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "81ee90c41a92e68384f96e8fa4ab01dbf74dc09be1fc78f6cebf013e362a5123"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
+file = "mods/cma.pw.toml"
+hash = "e29c3854ea39e281f6f12cb74dbe99c5976c4ce701ffa2c9d03e4cf5eb68bec0"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a0d08473c0bd4d3873307800a8527edff2d10c7eccc8535ead68596dea2f1e19"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "5922a86a296644a5a6771522eeb792546e89a0d806dbc27dbb5a9f5934bb3683"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d0652639d4b9913a066768cbab92dd09330df5c6558a53a043baf7c541ca4a94"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "df93b4e65bfe391a23ce320c1783c232aa424fa8172b46843d1848d4e86298b3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-carpet.pw.toml"
+hash = "0ac51686689f83b011446cb3cef393edb244a3c53157a1b314c100574d56d1fc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
+metafile = true
+
+[[files]]
+file = "mods/gens-data-api.pw.toml"
+hash = "923214880aee40df3e605eb02f8c74c593290d0eede59bf377418084458f77b5"
+metafile = true
+
+[[files]]
+file = "mods/health-indicator.pw.toml"
+hash = "6810c18b7cf1a8cb61d680592feea59005f8207cf5844d1d70024a7600ff8c92"
+metafile = true
+
+[[files]]
+file = "mods/health_indicator.pw.toml"
+hash = "3194b4c8f30863389a83570ef8f8fc7d62c2aea160713227932063c52a32c8a9"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4efb88bbc5474a684e35b75238d66c00caba82befec0b967a08f843d13bcac7f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "531ac8755c32387b9393968e174ea1c378d4736cc9e3ee90c8f8f80e24c36d65"
+metafile = true
+
+[[files]]
+file = "mods/let-your-friend-eating!.pw.toml"
+hash = "97a339685aa6c184dab1023b47dc33b9a0edec02becec3ca2e639da967233d4a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "e94c47d7679c5a6a4a3deccaa7bba8f7c3961a70f6c03c32adc809d7135c87cc"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "13c3726cb4534f0a924b1d77a6ae0ab4939d0b2cf9e38eeda5829d5e65e96b0f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "48c6c412644a17079cdbe40dce811d9e513d3e8c1b0dc52c1b07a64662ffa516"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "a1d9583bf0c8b095d2530e0c0b389981bd18419b8aadb6a099b68212317a3496"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "32a26d7d518dbee17c9c3f21525bf61ccaf69ff01b48d802fc0d1cffd914d38f"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
+metafile = true
+
+[[files]]
+file = "mods/villager-death-messages.pw.toml"
+hash = "b0544fff4c1b9ea1f26e5a33f9fb567f1f37e39c85de12e9c8b6b43caccb1a56"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "e2cbb2128cf45dc3a29232007cced03dbfd4d72b856dc2595b89b3b0d35ba318"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2fcbe0a98ff51dc54a24d983251f478c29d4d6cbe731abb3e7e002263931a317"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
+metafile = true
+
+[[files]]
+file = "mods/weatherdisplay.pw.toml"
+hash = "05c73580efb62fa6dc15724802e4bb0e925fc9fb84266075d368b19bfc8b0b4f"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "33bf6291ef7d71d83b9c7ff6aa8286f8566adf3f77f78314bbf8021af930a8cb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Cloth Gamerules"
+filename = "cloth-gamerules-1.2.0+1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f8QTxwTe/versions/P1KYBjKr/cloth-gamerules-1.2.0%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "29cb0041f4ba5f70d35e3dc76d24cd44cb79e0c6a6997fcc8a6ec1ff741175fbbfcd3422b620cf0dea7dc4595b664a992e6ca69ac9702e47303d66876b876427"
+
+[update]
+[update.modrinth]
+mod-id = "f8QTxwTe"
+version = "P1KYBjKr"

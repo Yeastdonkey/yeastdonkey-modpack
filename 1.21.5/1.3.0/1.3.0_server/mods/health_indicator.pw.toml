@@ -1,0 +1,13 @@
+name = "Tablist Health Indicator"
+filename = "tablist-health-indicator-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/srdtOlPG/versions/fsFJbXOy/tablist-health-indicator-2.jar"
+hash-format = "sha512"
+hash = "ca66b08151708c8f607264d63f3c255b424aae8f3b075bf8ad8262d49f8c0cca026d0f4f7091db7fc56a2c6f4116e9809b185a53c141d292e7f93fb8fed8168b"
+
+[update]
+[update.modrinth]
+mod-id = "srdtOlPG"
+version = "fsFJbXOy"

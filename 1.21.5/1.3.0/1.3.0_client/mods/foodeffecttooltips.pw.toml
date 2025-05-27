@@ -1,0 +1,13 @@
+name = "Food Effect Tooltips"
+filename = "FoodEffectTooltips-1.3.0+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/dQwhzyb0/FoodEffectTooltips-1.3.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "6b11c2c01a0f99c3c2f701c11dd63049f58d59290157f6dc7641453fdce9938111de63ad2df733da7e7b2b4e3aefc1a5fd925553ab708595414176d2ad898aab"
+
+[update]
+[update.modrinth]
+mod-id = "GGfyJWnG"
+version = "dQwhzyb0"

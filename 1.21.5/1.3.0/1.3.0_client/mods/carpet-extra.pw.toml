@@ -1,0 +1,15 @@
+name = "carpet-extra"
+filename = "carpet-extra-1.21.5-1.4.169.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gnembon/carpet-extra/releases/download/1.4.169/carpet-extra-1.21.5-1.4.169.jar"
+hash-format = "sha256"
+hash = "a89704738c2eadc7fcba729680544fac77c0f844bdd46b2db80ee77f252f0106"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "gnembon/carpet-extra"
+tag = "1.4.169"

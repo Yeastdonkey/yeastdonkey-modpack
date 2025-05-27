@@ -1,0 +1,13 @@
+name = "Let Your Friend Eating!"
+filename = "LetYourFriendEating_1.0.3-beta+patch1_1.20.2-1.21.5_Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qkQbFn8p/versions/EWVkooDk/LetYourFriendEating_1.0.3-beta%2Bpatch1_1.20.2-1.21.5_Fabric.jar"
+hash-format = "sha512"
+hash = "f2d47902f7fdfda5c9b6468eff00a1de30ab46e15f2aaf672ae6e7f8717bbf388d273940980a2042baaced389cd4f1489db09f18e433f0e4f9bcbecff89fbd22"
+
+[update]
+[update.modrinth]
+mod-id = "qkQbFn8p"
+version = "EWVkooDk"

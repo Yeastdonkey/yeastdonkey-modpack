@@ -1,0 +1,13 @@
+name = "WeatherDisplay"
+filename = "WeatherDisplay 1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1D8O3rrq/versions/wy50Rgln/WeatherDisplay%201.21.5.jar"
+hash-format = "sha512"
+hash = "3e3248b6fed5fd4f4d23a4aac97d68cf915dacd6b8a7a13dafab7fbca2f6dc9d2e311418dce9ec38b1cf225df6cc632ae47e1babebf95d37941106ffe3ca119b"
+
+[update]
+[update.modrinth]
+mod-id = "1D8O3rrq"
+version = "wy50Rgln"
