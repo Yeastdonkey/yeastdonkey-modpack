@@ -1,0 +1,8 @@
+name = "Yeastdonkey Pack"
+filename = "yeastdonkey_6.0.1_mc1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Yeastdonkey/resource-pack/releases/download/v6.0.1/yeastdonkey_6.0.1_mc1.21.5.zip"
+hash-format = "sha256"
+hash = "0818d38c84459762356c766c87df49ac6c4e028acad55a8efb516aa1252cd8fe"

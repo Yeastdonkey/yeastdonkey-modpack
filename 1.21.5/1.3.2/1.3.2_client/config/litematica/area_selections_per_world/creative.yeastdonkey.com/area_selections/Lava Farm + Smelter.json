@@ -1,0 +1,19 @@
+{
+  "name": "Lava Farm + Smelter",
+  "current": "Lava Farm + Smelter",
+  "boxes": [
+    {
+      "pos1": [
+        -210,
+        12,
+        122
+      ],
+      "pos2": [
+        -210,
+        12,
+        122
+      ],
+      "name": "Lava Farm + Smelter"
+    }
+  ]
+}

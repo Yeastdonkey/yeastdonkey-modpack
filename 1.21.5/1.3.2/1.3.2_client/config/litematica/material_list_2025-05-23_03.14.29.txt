@@ -1,0 +1,161 @@
++-------------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                       |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+
+| Hopper                        |  3171 |    2988 |         0 |
+| Deepslate Bricks              |  2661 |     937 |         0 |
+| Powered Rail                  |  2514 |     781 |         0 |
+| Composter                     |   895 |     856 |         0 |
+| Cauldron                      |   857 |      24 |         0 |
+| Lava Bucket                   |   838 |       2 |         0 |
+| Dripstone Block               |   836 |       1 |         0 |
+| Pointed Dripstone             |   836 |       1 |         0 |
+| Red Stained Glass             |   809 |      15 |         0 |
+| Furnace                       |   576 |     576 |         0 |
+| Deepslate Brick Slab          |   448 |     448 |         0 |
+| Polished Basalt               |   345 |     267 |         0 |
+| Smooth Stone                  |   337 |     329 |         0 |
+| Observer                      |   332 |     285 |         0 |
+| Light Gray Stained Glass      |   321 |     321 |         0 |
+| Bamboo Trapdoor               |   252 |     252 |         0 |
+| Deepslate Brick Stairs        |   218 |     218 |         0 |
+| Redstone Dust                 |   202 |     190 |         0 |
+| Rail                          |   194 |     155 |         0 |
+| Chest                         |   190 |     190 |         0 |
+| Gray Stained Glass            |   174 |      75 |         0 |
+| Barrel                        |   168 |     157 |         0 |
+| Redstone Comparator           |   166 |     154 |         0 |
+| Dropper                       |   143 |     106 |         0 |
+| Polished Blackstone Bricks    |   115 |       0 |         0 |
+| Block of Redstone             |   109 |      65 |         0 |
+| Redstone Repeater             |   108 |     104 |         0 |
+| Blue Ice                      |    96 |      59 |         0 |
+| Sticky Piston                 |    86 |      71 |         0 |
+| Blue Stained Glass            |    82 |      82 |         0 |
+| Note Block                    |    80 |      71 |         0 |
+| Redstone Lamp                 |    75 |      75 |         0 |
+| Activator Rail                |    72 |      68 |         0 |
+| Decorated Pot                 |    61 |      61 |         0 |
+| Light Blue Stained Glass      |    58 |       8 |         0 |
+| Chain                         |    54 |      54 |         0 |
+| Deepslate Tile Stairs         |    52 |      51 |         0 |
+| Iron Bars                     |    51 |      51 |         0 |
+| Light Gray Stained Glass Pane |    48 |      48 |         0 |
+| Light Gray Concrete           |    47 |      47 |         0 |
+| Glowstone                     |    46 |      39 |         0 |
+| Black Glazed Terracotta       |    39 |      39 |         0 |
+| Redstone Torch                |    39 |      39 |         0 |
+| Dispenser                     |    36 |      31 |         0 |
+| Packed Ice                    |    36 |       8 |         0 |
+| Gray Concrete                 |    35 |      35 |         0 |
+| Honey Block                   |    34 |      11 |         0 |
+| Polished Deepslate Wall       |    32 |      32 |         0 |
+| Resin Brick Stairs            |    30 |      30 |         0 |
+| Slime Block                   |    29 |      27 |         0 |
+| Grindstone                    |    26 |      26 |         0 |
+| Spruce Trapdoor               |    26 |      26 |         0 |
+| String                        |    26 |      25 |         0 |
+| Light Blue Concrete           |    25 |      25 |         0 |
+| Mud                           |    23 |      23 |         0 |
+| Red Concrete                  |    23 |      23 |         0 |
+| Shroomlight                   |    23 |      23 |         0 |
+| Dark Oak Leaves               |    22 |      22 |         0 |
+| Water Bucket                  |    21 |      13 |         0 |
+| Wither Skeleton Skull         |    21 |      21 |         0 |
+| Deepslate Tiles               |    20 |      20 |         0 |
+| Orange Concrete               |    20 |      20 |         0 |
+| Oxidized Copper Trapdoor      |    20 |      20 |         0 |
+| Cherry Sign                   |    19 |      19 |         0 |
+| Dark Oak Fence Gate           |    19 |      19 |         0 |
+| Waxed Copper Bulb             |    19 |      19 |         0 |
+| Light Gray Concrete Powder    |    18 |      18 |         0 |
+| Block of Bamboo               |    16 |      16 |         0 |
+| Magma Block                   |    16 |      16 |         0 |
+| Orange Candle                 |    16 |      16 |         0 |
+| Warped Fence Gate             |    16 |       9 |         0 |
+| Lever                         |    15 |      15 |         0 |
+| Resin Brick Wall              |    15 |      15 |         0 |
+| Black Banner                  |    14 |      14 |         0 |
+| Cyan Concrete                 |    14 |      14 |         0 |
+| Piston                        |    14 |      10 |         0 |
+| Red Banner                    |    14 |      14 |         0 |
+| Black Concrete                |    13 |      13 |         0 |
+| Light Blue Wool               |    13 |       0 |         0 |
+| Target                        |    13 |      10 |         0 |
+| Block of Amethyst             |    12 |      12 |         0 |
+| Dark Oak Trapdoor             |    12 |      12 |         0 |
+| End Rod                       |    12 |      12 |         0 |
+| White Concrete                |    12 |      12 |         0 |
+| Blue Concrete                 |    11 |      11 |         0 |
+| Block of Gold                 |     8 |       8 |         0 |
+| Crafter                       |     8 |       8 |         0 |
+| Gray Glazed Terracotta        |     8 |       8 |         0 |
+| Soul Sand                     |     8 |       7 |         0 |
+| Stone Button                  |     8 |       8 |         0 |
+| Dark Oak Wood                 |     7 |       7 |         0 |
+| Deepslate Tile Slab           |     7 |       7 |         0 |
+| Orange Shulker Box            |     7 |       7 |         0 |
+| Chiseled Tuff Bricks          |     6 |       6 |         0 |
+| Glow Lichen                   |     6 |       6 |         0 |
+| Polished Blackstone Button    |     6 |       6 |         0 |
+| Polished Deepslate Slab       |     6 |       6 |         0 |
+| Small Amethyst Bud            |     6 |       6 |         0 |
+| Lantern                       |     5 |       5 |         0 |
+| Yellow Concrete               |     5 |       5 |         0 |
+| Block of Coal                 |     4 |       4 |         0 |
+| Block of Diamond              |     4 |       4 |         0 |
+| Crying Obsidian               |     4 |       4 |         0 |
+| Dead Brain Coral Fan          |     4 |       4 |         0 |
+| Oak Door                      |     4 |       1 |         0 |
+| Waxed Copper Trapdoor         |     4 |       4 |         0 |
+| Bamboo Fence Gate             |     3 |       3 |         0 |
+| Block of Netherite            |     3 |       3 |         0 |
+| Magenta Concrete              |     3 |       3 |         0 |
+| Purple Concrete               |     3 |       3 |         0 |
+| Torch                         |     3 |       3 |         0 |
+| Yellow Shulker Box            |     3 |       3 |         0 |
+| Block of Emerald              |     2 |       2 |         0 |
+| Block of Iron                 |     2 |       2 |         0 |
+| Block of Lapis Lazuli         |     2 |       2 |         0 |
+| Block of Resin                |     2 |       2 |         0 |
+| Coal Ore                      |     2 |       2 |         0 |
+| Cobweb                        |     2 |       2 |         0 |
+| Copper Ore                    |     2 |       2 |         0 |
+| Deepslate Tile Wall           |     2 |       0 |         2 |
+| Diamond Ore                   |     2 |       2 |         0 |
+| Emerald Ore                   |     2 |       2 |         0 |
+| Gold Ore                      |     2 |       2 |         0 |
+| Green Concrete                |     2 |       2 |         0 |
+| Iron Ore                      |     2 |       2 |         0 |
+| Lapis Lazuli Ore              |     2 |       2 |         0 |
+| Light Weighted Pressure Plate |     2 |       2 |         0 |
+| Magenta Shulker Box           |     2 |       2 |         0 |
+| Redstone Ore                  |     2 |       2 |         0 |
+| Scaffolding                   |     2 |       2 |         0 |
+| Smithing Table                |     2 |       2 |         0 |
+| Waxed Block of Copper         |     2 |       2 |         0 |
+| Bamboo Pressure Plate         |     1 |       1 |         0 |
+| Cake §f(§f§f§f§f§f§f)  |     1 |       1 |         0 |
+| Campfire                      |     1 |       1 |         0 |
+| Cherry Wood                   |     1 |       1 |         0 |
+| Crimson Fence Gate            |     1 |       1 |         0 |
+| Dark Oak Sign                 |     1 |       1 |         0 |
+| Detector Rail                 |     1 |       1 |         0 |
+| Iron Trapdoor                 |     1 |       1 |         0 |
+| Light Blue Glazed Terracotta  |     1 |       1 |         0 |
+| Magenta Glazed Terracotta     |     1 |       1 |         0 |
+| Magenta Stained Glass         |     1 |       1 |         0 |
+| Mangrove Trapdoor             |     1 |       1 |         0 |
+| Oak Pressure Plate            |     1 |       1 |         0 |
+| Oxidized Copper Bulb          |     1 |       1 |         0 |
+| Red Glazed Terracotta         |     1 |       1 |         0 |
+| Sea Lantern                   |     1 |       1 |         0 |
+| Spruce Fence Gate             |     1 |       1 |         0 |
+| Spruce Wood                   |     1 |       1 |         0 |
+| Warped Trapdoor               |     1 |       1 |         0 |
+| Waxed Cut Copper Slab         |     1 |       1 |         0 |
+| Waxed Oxidized Copper Bulb    |     1 |       1 |         0 |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+

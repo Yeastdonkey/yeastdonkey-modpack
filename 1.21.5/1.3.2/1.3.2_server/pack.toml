@@ -1,0 +1,13 @@
+name = "Yeastdonkey's Modpack"
+author = "Yeastdonkey"
+version = "1.3.2s"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a99a1dd84a3cbb2dbb512ab2afbe6120b2de60e376ec8815f87800835d859f44"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"

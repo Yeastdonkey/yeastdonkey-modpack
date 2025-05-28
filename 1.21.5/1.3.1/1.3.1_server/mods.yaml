@@ -1,0 +1,298 @@
+villager-death-messages:
+  slug: 9uICvZTr
+  link: https://modrinth.com/mod/9uICvZTr
+  version: 1.21.5-3.6-fabric+forge+neo
+  version_id: M8mnllE9
+  platforms:
+  - server
+appleskin:
+  slug: EsAfCjCV
+  link: https://modrinth.com/mod/EsAfCjCV
+  version: 3.0.6+mc1.21.5
+  version_id: VfjnbBAT
+  platforms:
+  - client
+  - server
+badpackets:
+  slug: ftdbN0KK
+  link: https://modrinth.com/mod/ftdbN0KK
+  version: fabric-0.8.2
+  version_id: hjhT2sMz
+  platforms:
+  - client
+  - server
+better-safe-bed:
+  slug: aUp4r9hY
+  link: https://modrinth.com/mod/aUp4r9hY
+  version: 1.21.3-1
+  version_id: wjEq4p3A
+  platforms:
+  - server
+better-stats:
+  slug: n6PXGAoM
+  link: https://modrinth.com/mod/n6PXGAoM
+  version: 3.13.9+fabric-1.21.5
+  version_id: GQDPjDMb
+  platforms:
+  - client
+  - server
+c2me-fabric:
+  slug: VSNURh3q
+  link: https://modrinth.com/mod/VSNURh3q
+  version: 0.3.4+alpha.0.1+1.21.5
+  version_id: aEnmtg8n
+  platforms:
+  - client
+  - server
+cardinalboats:
+  slug: 1m9s2ZhL
+  link: https://modrinth.com/mod/1m9s2ZhL
+  version: 1.4.5
+  version_id: R4DjDkqo
+  platforms:
+  - client
+  - server
+carpet-extra:
+  slug: ''
+  link: ''
+  version: carpet-extra
+  version_id: ''
+  platforms:
+  - client
+  - server
+chunky:
+  slug: fALzjamp
+  link: https://modrinth.com/mod/fALzjamp
+  version: 1.4.36
+  version_id: mhLtMoLk
+  platforms:
+  - client
+  - server
+cloth-config:
+  slug: 9s6osm5g
+  link: https://modrinth.com/mod/9s6osm5g
+  version: 18.0.145+fabric
+  version_id: qA00xo1O
+  platforms:
+  - client
+  - server
+collective:
+  slug: e0M1UDsY
+  link: https://modrinth.com/mod/e0M1UDsY
+  version: 1.21.5-8.3-fabric+forge+neo
+  version_id: aCWSF57s
+  platforms:
+  - client
+  - server
+creativecore:
+  slug: OsZiaDHq
+  link: https://modrinth.com/mod/OsZiaDHq
+  version: 2.13.2
+  version_id: 3UaXgFEx
+  platforms:
+  - client
+  - server
+debugify:
+  slug: QwxR6Gcd
+  link: https://modrinth.com/mod/QwxR6Gcd
+  version: 1.21.5+1.0
+  version_id: rfvoZgM1
+  platforms:
+  - client
+  - server
+distanthorizons:
+  slug: uCdwusMi
+  link: https://modrinth.com/mod/uCdwusMi
+  version: 2.3.2-b-1.21.5
+  version_id: Mt9bDAs6
+  platforms:
+  - client
+  - server
+easy-anvils:
+  slug: OZBR5JT5
+  link: https://modrinth.com/mod/OZBR5JT5
+  version: v21.5.0-1.21.5-Fabric
+  version_id: DwPjofyR
+  platforms:
+  - client
+  - server
+fabric-api:
+  slug: P7dR8mSH
+  link: https://modrinth.com/mod/P7dR8mSH
+  version: 0.122.0+1.21.5
+  version_id: 7KiXkbYC
+  platforms:
+  - client
+  - server
+fabric-carpet:
+  slug: ''
+  link: ''
+  version: fabric-carpet
+  version_id: ''
+  platforms:
+  - client
+  - server
+fabric-language-kotlin:
+  slug: Ha28R6CL
+  link: https://modrinth.com/mod/Ha28R6CL
+  version: 1.13.2+kotlin.2.1.20
+  version_id: E4WyjCxJ
+  platforms:
+  - client
+  - server
+ferrite-core:
+  slug: uXXizFIs
+  link: https://modrinth.com/mod/uXXizFIs
+  version: 8.0.0-fabric
+  version_id: CtMpt7Jr
+  platforms:
+  - client
+  - server
+forge-config-api-port:
+  slug: ohNO6lps
+  link: https://modrinth.com/mod/ohNO6lps
+  version: v21.5.1-1.21.5-Fabric
+  version_id: mlQdrgSO
+  platforms:
+  - client
+  - server
+health-indicator:
+  slug: hxaUKE37
+  link: https://modrinth.com/mod/hxaUKE37
+  version: 4+mod
+  version_id: 3tWywoHS
+  platforms:
+  - client
+  - server
+jade:
+  slug: nvQzSEkH
+  link: https://modrinth.com/mod/nvQzSEkH
+  version: 18.1.1+fabric
+  version_id: uHuQED6W
+  platforms:
+  - client
+  - server
+krypton:
+  slug: fQEb0iXm
+  link: https://modrinth.com/mod/fQEb0iXm
+  version: 0.2.9
+  version_id: neW85eWt
+  platforms:
+  - client
+  - server
+leaves-be-gone:
+  slug: AVq17PqV
+  link: https://modrinth.com/mod/AVq17PqV
+  version: v21.5.2-1.21.5-Fabric
+  version_id: hReXJP82
+  platforms:
+  - server
+let-your-friend-eating!:
+  slug: qkQbFn8p
+  link: https://modrinth.com/mod/qkQbFn8p
+  version: 1.0.3-beta+patch1
+  version_id: EWVkooDk
+  platforms:
+  - client
+  - server
+lithium:
+  slug: gvQqBUqZ
+  link: https://modrinth.com/mod/gvQqBUqZ
+  version: mc1.21.5-0.16.2-fabric
+  version_id: VWYoZjBF
+  platforms:
+  - client
+  - server
+no-chat-reports:
+  slug: qQyHxfxd
+  link: https://modrinth.com/mod/qQyHxfxd
+  version: Fabric-1.21.5-v2.12.0
+  version_id: CHlHxkvf
+  platforms:
+  - client
+  - server
+packet-fixer:
+  slug: c7m1mi73
+  link: https://modrinth.com/mod/c7m1mi73
+  version: 2.1.2
+  version_id: nBmGzZcV
+  platforms:
+  - client
+  - server
+placeholder-api:
+  slug: eXts2L7r
+  link: https://modrinth.com/mod/eXts2L7r
+  version: 2.6.3+1.21.5
+  version_id: o4S6CvEH
+  platforms:
+  - client
+  - server
+puzzles-lib:
+  slug: QAGBst4M
+  link: https://modrinth.com/mod/QAGBst4M
+  version: v21.5.10-1.21.5-Fabric
+  version_id: xsg21CnF
+  platforms:
+  - client
+  - server
+servux:
+  slug: zQhsx8KF
+  link: https://modrinth.com/mod/zQhsx8KF
+  version: 0.6.0
+  version_id: GGj3rNei
+  platforms:
+  - server
+syncmatica:
+  slug: bfneejKo
+  link: https://modrinth.com/mod/bfneejKo
+  version: 1.21.5-0.3.14
+  version_id: 7Ma32dRR
+  platforms:
+  - client
+  - server
+tcdcommons:
+  slug: Eldc1g37
+  link: https://modrinth.com/mod/Eldc1g37
+  version: 3.12.7+fabric-1.21.5
+  version_id: HraP4Op2
+  platforms:
+  - client
+  - server
+villager-names-serilum:
+  slug: gqRXDo8B
+  link: https://modrinth.com/mod/gqRXDo8B
+  version: 1.21.5-8.2-fabric+forge+neo
+  version_id: BDYlxqxR
+  platforms:
+  - server
+visual-workbench:
+  slug: kfqD1JRw
+  link: https://modrinth.com/mod/kfqD1JRw
+  version: v21.5.0-1.21.5-Fabric
+  version_id: GLNQXUBq
+  platforms:
+  - client
+  - server
+weatherdisplay:
+  slug: 1D8O3rrq
+  link: https://modrinth.com/mod/1D8O3rrq
+  version: 1.2.0
+  version_id: wy50Rgln
+  platforms:
+  - client
+  - server
+worldedit:
+  slug: 1u6JkXh5
+  link: https://modrinth.com/mod/1u6JkXh5
+  version: 7.3.12-beta-02
+  version_id: cRBkMMPN
+  platforms:
+  - server
+yacl:
+  slug: 1eAoo2KR
+  link: https://modrinth.com/mod/1eAoo2KR
+  version: 3.6.6+1.21.5-fabric
+  version_id: 5yBEzonb
+  platforms:
+  - client
+  - server

@@ -1,0 +1,512 @@
+3dskinlayers:
+  link: https://modrinth.com/mod/3dskinlayers
+  project_id: zV5r3pPn
+  version_id: qFwcwulG
+  side: client
+ambientsounds:
+  link: https://modrinth.com/mod/ambientsounds
+  project_id: fM515JnW
+  version_id: nnNIkaxO
+  side: client
+appleskin:
+  link: https://modrinth.com/mod/appleskin
+  project_id: EsAfCjCV
+  version_id: VfjnbBAT
+  side: both
+architectury-api:
+  link: https://modrinth.com/mod/architectury-api
+  project_id: lhGA9TYQ
+  version_id: ImZUcNzP
+  side: both
+auth-me:
+  link: https://modrinth.com/mod/auth-me
+  project_id: yjgIrBjZ
+  version_id: VS9Jw8A3
+  side: client
+badoptimizations:
+  link: https://modrinth.com/mod/badoptimizations
+  project_id: g96Z4WVZ
+  version_id: flRkZbyf
+  side: client
+badpackets:
+  link: https://modrinth.com/mod/badpackets
+  project_id: ftdbN0KK
+  version_id: hjhT2sMz
+  side: both
+better-clouds:
+  link: https://modrinth.com/mod/better-clouds
+  project_id: 5srFLIaK
+  version_id: qK6EgFzF
+  side: client
+better-stats:
+  link: https://modrinth.com/mod/better-stats
+  project_id: n6PXGAoM
+  version_id: GQDPjDMb
+  side: both
+better-third-person:
+  link: https://modrinth.com/mod/better-third-person
+  project_id: G1s2WpNo
+  version_id: Ibeh65i3
+  side: client
+betterf3:
+  link: https://modrinth.com/mod/betterf3
+  project_id: 8shC1gFX
+  version_id: dfWnohnD
+  side: client
+bettertab:
+  link: https://modrinth.com/mod/bettertab
+  project_id: OSMu7zRz
+  version_id: JZvJeMwO
+  side: client
+blur-plus:
+  link: https://modrinth.com/mod/blur-plus
+  project_id: NK39zBp2
+  version_id: fA38oPvy
+  side: client
+boat-item-view:
+  link: https://modrinth.com/mod/boat-item-view
+  project_id: BdKIyOLe
+  version_id: UcxRRnAH
+  side: client
+c2me-fabric:
+  link: https://modrinth.com/mod/c2me-fabric
+  project_id: VSNURh3q
+  version_id: BbvocCcD
+  side: both
+capes:
+  link: https://modrinth.com/mod/capes
+  project_id: 89Wsn8GD
+  version_id: htKsCP2s
+  side: client
+carpet-extra:
+  link: https://github.com/gnembon/carpet-extra
+  version_id: 1.4.169
+  side: both
+carpet:
+  link: https://github.com/gnembon/fabric-carpet
+  version_id: 1.4.169
+  side: both
+chat-heads:
+  link: https://modrinth.com/mod/chat-heads
+  project_id: Wb5oqrBJ
+  version_id: bczGAPvA
+  side: client
+chatanimation:
+  link: https://modrinth.com/mod/chatanimation
+  project_id: DnNYdJsx
+  version_id: O4wSETwq
+  side: client
+chatpatches:
+  link: https://modrinth.com/mod/chatpatches
+  project_id: MOqt4Z5n
+  version_id: e7zhRzsQ
+  side: client
+cherished-worlds:
+  link: https://modrinth.com/mod/cherished-worlds
+  project_id: 3azQ6p0W
+  version_id: FG63VI7s
+  side: client
+chunks-fade-in:
+  link: https://modrinth.com/mod/chunks-fade-in
+  project_id: JaNmzvA8
+  version_id: B1SfPz92
+  side: client
+chunky:
+  link: https://modrinth.com/mod/chunky
+  project_id: fALzjamp
+  version_id: mhLtMoLk
+  side: both
+cloth-config:
+  link: https://modrinth.com/mod/cloth-config
+  project_id: 9s6osm5g
+  version_id: qA00xo1O
+  side: both
+cloth-gamerules:
+  link: https://modrinth.com/mod/cloth-gamerules
+  project_id: f8QTxwTe
+  version_id: P1KYBjKr
+  side: client
+controlling:
+  link: https://modrinth.com/mod/controlling
+  project_id: xv94TkTM
+  version_id: 3qTTC7U1
+  side: client
+creativecore:
+  link: https://modrinth.com/mod/creativecore
+  project_id: OsZiaDHq
+  version_id: 3UaXgFEx
+  side: both
+cubes-without-borders:
+  link: https://modrinth.com/mod/cubes-without-borders
+  project_id: ETlrkaYF
+  version_id: wXhtL4fb
+  side: client
+debugify:
+  link: https://modrinth.com/mod/debugify
+  project_id: QwxR6Gcd
+  version_id: rfvoZgM1
+  side: both
+distanthorizons:
+  link: https://modrinth.com/mod/distanthorizons
+  project_id: uCdwusMi
+  version_id: Mt9bDAs6
+  side: both
+dripsounds:
+  link: https://modrinth.com/mod/dripsounds
+  project_id: T8MMXTpr
+  version_id: rpAyR7Ts
+  side: client
+durability-tooltip:
+  link: https://modrinth.com/mod/durability-tooltip
+  project_id: smUP7V3r
+  version_id: rVchC4HC
+  side: client
+dynamic-fps:
+  link: https://modrinth.com/mod/dynamic-fps
+  project_id: LQ3K71Q1
+  version_id: wrSjf4ld
+  side: client
+easy-anvils:
+  link: https://modrinth.com/mod/easy-anvils
+  project_id: OZBR5JT5
+  version_id: DwPjofyR
+  side: both
+easy-magic:
+  link: https://modrinth.com/mod/easy-magic
+  project_id: 9hx3AbJM
+  version_id: QQpiapTJ
+  side: both
+enhanced-attack-indicator:
+  link: https://modrinth.com/mod/enhanced-attack-indicator
+  project_id: eTy17BBS
+  version_id: qTOpGCXp
+  side: client
+entity-model-features:
+  link: https://modrinth.com/mod/entity-model-features
+  project_id: 4I1XuqiY
+  version_id: V1CDwTjH
+  side: client
+entityculling:
+  link: https://modrinth.com/mod/entityculling
+  project_id: NNAgCjsB
+  version_id: 29GV7fju
+  side: client
+entitytexturefeatures:
+  link: https://modrinth.com/mod/entitytexturefeatures
+  project_id: BVzZfTc1
+  version_id: yOuAC3la
+  side: client
+fabric-api:
+  link: https://modrinth.com/mod/fabric-api
+  project_id: P7dR8mSH
+  version_id: w6P5mySo
+  side: both
+fabric-language-kotlin:
+  link: https://modrinth.com/mod/fabric-language-kotlin
+  project_id: Ha28R6CL
+  version_id: iqWDz8qt
+  side: both
+fast-ip-ping:
+  link: https://modrinth.com/mod/fast-ip-ping
+  project_id: 9mtu0sUO
+  version_id: 24ohs0tI
+  side: client
+fastquit:
+  link: https://modrinth.com/mod/fastquit
+  project_id: x1hIzbuY
+  version_id: HdbAWjaF
+  side: client
+ferrite-core:
+  link: https://modrinth.com/mod/ferrite-core
+  project_id: uXXizFIs
+  version_id: CtMpt7Jr
+  side: both
+foodeffecttooltips:
+  link: https://modrinth.com/mod/foodeffecttooltips
+  project_id: GGfyJWnG
+  version_id: dQwhzyb0
+  side: client
+forge-config-api-port:
+  link: https://modrinth.com/mod/forge-config-api-port
+  project_id: ohNO6lps
+  version_id: mlQdrgSO
+  side: both
+health-indicator:
+  link: https://modrinth.com/mod/health-indicator
+  project_id: hxaUKE37
+  version_id: 3tWywoHS
+  side: both
+immediatelyfast:
+  link: https://modrinth.com/mod/immediatelyfast
+  project_id: 5ZwdcRci
+  version_id: rkJHrPyc
+  side: client
+inventory-profiles-next:
+  link: https://modrinth.com/mod/inventory-profiles-next
+  project_id: O7RBXm3n
+  version_id: cW7WDa67
+  side: client
+invmove:
+  link: https://modrinth.com/mod/invmove
+  project_id: REfW2AEX
+  version_id: Km5p4Rik
+  side: client
+iris:
+  link: https://modrinth.com/mod/iris
+  project_id: YL57xq9U
+  version_id: U6evbjd0
+  side: client
+item-scroller:
+  link: https://modrinth.com/mod/item-scroller
+  project_id: JygyCSA4
+  version_id: or2Q8a63
+  side: client
+jade:
+  link: https://modrinth.com/mod/jade
+  project_id: nvQzSEkH
+  version_id: VNSIKHbV
+  side: both
+krypton:
+  link: https://modrinth.com/mod/krypton
+  project_id: fQEb0iXm
+  version_id: neW85eWt
+  side: both
+lambdynamiclights:
+  link: https://modrinth.com/mod/lambdynamiclights
+  project_id: yBW8D80W
+  version_id: UPiFwTHO
+  side: client
+language-reload:
+  link: https://modrinth.com/mod/language-reload
+  project_id: uLbm7CG6
+  version_id: BMmbiHSJ
+  side: client
+let-your-friend-eating!:
+  link: https://modrinth.com/mod/let-your-friend-eating!
+  project_id: qkQbFn8p
+  version_id: sqkCE7Hy
+  side: both
+libipn:
+  link: https://modrinth.com/mod/libipn
+  project_id: onSQdWhM
+  version_id: cyV6tfJI
+  side: client
+litematica:
+  link: https://modrinth.com/mod/litematica
+  project_id: bEpr0Arc
+  version_id: ZIFjKvzv
+  side: client
+lithium:
+  link: https://modrinth.com/mod/lithium
+  project_id: gvQqBUqZ
+  version_id: VWYoZjBF
+  side: both
+make_bubbles_pop:
+  link: https://modrinth.com/mod/make_bubbles_pop
+  project_id: gPCdW0Wr
+  version_id: 26unk04q
+  side: client
+malilib:
+  link: https://modrinth.com/mod/malilib
+  project_id: GcWjdA9I
+  version_id: CcD4izog
+  side: client
+minihud:
+  link: https://modrinth.com/mod/minihud
+  project_id: UMxybHE8
+  version_id: e2qHFX1u
+  side: client
+mod-loading-screen:
+  link: https://modrinth.com/mod/mod-loading-screen
+  project_id: xAGJ6rQS
+  version_id: dHmCqlFI
+  side: client
+modelfix:
+  link: https://modrinth.com/mod/modelfix
+  project_id: QdG47OkI
+  version_id: WcDxGReS
+  side: client
+modmenu:
+  link: https://modrinth.com/mod/modmenu
+  project_id: mOgUt4GM
+  version_id: T7GjZmwP
+  side: client
+monsters-in-the-closet:
+  link: https://modrinth.com/mod/monsters-in-the-closet
+  project_id: GMA8jFBD
+  version_id: 57WSUc6t
+  side: both
+moreculling:
+  link: https://modrinth.com/mod/moreculling
+  project_id: 51shyZVL
+  version_id: MDkI6Huh
+  side: client
+no-chat-reports:
+  link: https://modrinth.com/mod/no-chat-reports
+  project_id: qQyHxfxd
+  version_id: CHlHxkvf
+  side: both
+not-enough-animations:
+  link: https://modrinth.com/mod/not-enough-animations
+  project_id: MPCX6s5C
+  version_id: prj4BdjU
+  side: client
+packet-fixer:
+  link: https://modrinth.com/mod/packet-fixer
+  project_id: c7m1mi73
+  version_id: nBmGzZcV
+  side: both
+ping-wheel:
+  link: https://modrinth.com/mod/ping-wheel
+  project_id: QQXAdCzh
+  version_id: USEtRrdw
+  side: both
+placeholder-api:
+  link: https://modrinth.com/mod/placeholder-api
+  project_id: eXts2L7r
+  version_id: o4S6CvEH
+  side: both
+presence-footsteps:
+  link: https://modrinth.com/mod/presence-footsteps
+  project_id: rcTfTZr3
+  version_id: goZ9pCqI
+  side: client
+puzzles-lib:
+  link: https://modrinth.com/mod/puzzles-lib
+  project_id: QAGBst4M
+  version_id: xsg21CnF
+  side: both
+reeses-sodium-options:
+  link: https://modrinth.com/mod/reeses-sodium-options
+  project_id: Bh37bMuy
+  version_id: KoUrx3jJ
+  side: client
+rei:
+  link: https://modrinth.com/mod/rei
+  project_id: nfn13YXA
+  version_id: HolhxWBq
+  side: client
+rrls:
+  link: https://modrinth.com/mod/rrls
+  project_id: ZP7xHXtw
+  version_id: xUn7p7zf
+  side: client
+searchables:
+  link: https://modrinth.com/mod/searchables
+  project_id: fuuu3xnx
+  version_id: sY13ht69
+  side: client
+shulkerboxtooltip:
+  link: https://modrinth.com/mod/shulkerboxtooltip
+  project_id: 2M01OLQq
+  version_id: mMHUyoWs
+  side: client
+smooth-gui:
+  link: https://modrinth.com/mod/smooth-gui
+  project_id: j6yrZogB
+  version_id: 7RfTDw3d
+  side: client
+sodium-extra:
+  link: https://modrinth.com/mod/sodium-extra
+  project_id: PtjYWJkn
+  version_id: E5w6eZNE
+  side: client
+sodium:
+  link: https://modrinth.com/mod/sodium
+  project_id: AANobbMI
+  version_id: DA250htH
+  side: client
+sound-physics-remastered:
+  link: https://modrinth.com/mod/sound-physics-remastered
+  project_id: qyVF9oeo
+  version_id: twAAiZM2
+  side: client
+status-effect-bars:
+  link: https://modrinth.com/mod/status-effect-bars
+  project_id: x02cBj9Y
+  version_id: z9zySjgX
+  side: client
+supermartijn642s-config-lib:
+  link: https://modrinth.com/mod/supermartijn642s-config-lib
+  project_id: LN9BxssP
+  version_id: euSlaAtA
+  side: both
+syncmatica:
+  link: https://modrinth.com/mod/syncmatica
+  project_id: bfneejKo
+  version_id: 7Ma32dRR
+  side: both
+tcdcommons:
+  link: https://modrinth.com/mod/tcdcommons
+  project_id: Eldc1g37
+  version_id: HraP4Op2
+  side: both
+tweakeroo:
+  link: https://modrinth.com/mod/tweakeroo
+  project_id: t5wuYk45
+  version_id: BcuU3lPm
+  side: client
+unobtrusive-effects:
+  link: https://modrinth.com/mod/unobtrusive-effects
+  project_id: 3wYGggWF
+  version_id: 4J6pDRRj
+  side: client
+visual-workbench:
+  link: https://modrinth.com/mod/visual-workbench
+  project_id: kfqD1JRw
+  version_id: GLNQXUBq
+  side: both
+visuality:
+  link: https://modrinth.com/mod/visuality
+  project_id: rI0hvYcd
+  version_id: W7vlELm0
+  side: client
+vmp-fabric:
+  link: https://modrinth.com/mod/vmp-fabric
+  project_id: wnEe9KBa
+  version_id: EKg6v67t
+  side: both
+wavey-capes:
+  link: https://modrinth.com/mod/wavey-capes
+  project_id: kYuIpRLv
+  version_id: A8HBEAVx
+  side: client
+weatherdisplay:
+  link: https://modrinth.com/mod/weatherdisplay
+  project_id: 1D8O3rrq
+  version_id: wy50Rgln
+  side: both
+worldedit:
+  link: https://modrinth.com/mod/worldedit
+  project_id: 1u6JkXh5
+  version_id: 9ACY6L4u
+  side: server
+xaeros-minimap:
+  link: https://modrinth.com/mod/xaeros-minimap
+  project_id: 1bokaNcj
+  version_id: su6YdstF
+  side: client
+xaeros-world-map:
+  link: https://modrinth.com/mod/xaeros-world-map
+  project_id: NcUtCpym
+  version_id: NFdP28cA
+  side: client
+yacl:
+  link: https://modrinth.com/mod/yacl
+  project_id: 1eAoo2KR
+  version_id: 5yBEzonb
+  side: both
+zoomify:
+  link: https://modrinth.com/mod/zoomify
+  project_id: w7ThoJFB
+  version_id: RKRjd2h1
+  side: client
+complementary-reimagined:
+  link: https://modrinth.com/mod/complementary-reimagined
+  project_id: HVnmMxH1
+  version_id: sAAjYvFB
+  side: client
+yeastdonkey-pack:
+  link: https://github.com/Yeastdonkey/resource-pack
+  version_id: v6.0.1
+  side: client

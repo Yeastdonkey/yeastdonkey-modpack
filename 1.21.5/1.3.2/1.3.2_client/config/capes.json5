@@ -1,0 +1,9 @@
+{
+  "clientCapeType": "MINECRAFT",
+  "enableOptifine": true,
+  "enableWynntils": true,
+  "enableMinecraftCapesMod": false,
+  "enableCosmetica": false,
+  "enableCloaksPlus": true,
+  "enableElytraTexture": true
+}
